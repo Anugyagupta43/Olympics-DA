@@ -81,11 +81,12 @@ This Power BI dashboard presents a comprehensive analysis of the **Olympics 2024
 ---
 
 ## 📷 Screenshots
-
-_Add screenshots here if you are uploading to GitHub._
+![Olympics Dashboard](img1.png)
+![Olympics Dashboard](img2.png)
+![Olympics Dashboard](img3.png)
 
 ---
 
 ## 🔗 Author
 
-- **Anugya Gupta**
+**Anugya Gupta**
